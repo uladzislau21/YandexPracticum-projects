@@ -7,7 +7,19 @@
 - устранить попытки покупки несовершеннолетними алкоголя и табака.
 _____________
 
-efefef
+Using neural networks, train a model for predicting the age of customers from a photo. In the future, the introduction of such a system in the supermarket will allow:
 
-## Проделанные шаги
- 
+- recommend products to customers with greater efficiency,
+- eliminate attempts to purchase alcohol and tobacco by minors.
+
+## Проделанные шаги / Workflow
+
+### Данные / Data
+Данные были взяты с сайта [ChaLearn Looking at People](https://chalearnlap.cvc.uab.cat/dataset/36/description/). Данные организованы в следущую структуру: папка со всеми изображениями и датасет с 
+двумя колонками (название файла и возраст человека на соответствующем изображении).
+
+### Исследовательский анализ данных / Exploatory data analysis
+На данном этапе была проверена размерность датафрэйма и проруски. 10 изображений были напечатаны на экран в виде графика. Также было проверено распределение возраста в данных.
+
+### Обучение модели
+Для достижение поставленной цели использовали сверточную нейронную сеть ResNet50. Модель была обучена в отдельном GPU-тренажере. Код в ноутбуке выведен как текстовая ячейка. Также 
