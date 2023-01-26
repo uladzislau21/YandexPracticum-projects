@@ -11,4 +11,4 @@
 |[Рекомендация тарифов / Tariff recommendation](https://github.com/uladzislau21/YandexPracticum-projects/tree/main/intro_ml)|1. Построение моделей машинного обучения / ML models creation<br>2. Оценка качества моделей / Model performance assesment<br>3. Улулчшение моделей / Model optimization|pandas<br>seaborn<br>matplotlib<br>sklearn|
 |[Определение возраста по фотографии / Age determinantion from photo](https://github.com/uladzislau21/YandexPracticum-projects/tree/main/cv)|1. Аугментация изображений / Image augmentation <br> 2. 
 Задачи классификации, детекции, и сегментации изображений / Image classification, detection and segmentation <br>3. Полносвязные нейронные сети / Fully-connected neural networks <br>4. Сверточные 
-нейронные сети / Convolutional networks <br> |pandas<br>tensorflow<seaborn>|
+нейронные сети / Convolutional networks|pandas<br>tensorflow<seaborn>|
