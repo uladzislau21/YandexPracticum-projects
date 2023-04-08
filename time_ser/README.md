@@ -3,6 +3,7 @@
 ## Цель проекта / Project goal
 Построить модель машинного обучения для предсказания количества заказов такси на следующий час и добиться метрики RMSE не больше 48.
 
+Build a machine learning model to predict the number of taxi orders for the next hour and achieve an RMSE metric of no more than 48.
 
 ## Проделанные шаги / Workflow
 
