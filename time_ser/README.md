@@ -12,7 +12,7 @@
 The data contains the number of taxi orders every 10 minutes for six months.
 
 
-### Изучение данных / Data
+### Изучение данных / EDA
 Суммировали данные по одному часу. Далее провели исследовательский анализ данных. Проверили распределение заказов в час. Визуализировали тренд, сезонность, и остатки.
 
 Summarized data for one hour. Next, an exploratory analysis of the data was carried out. Checked the distribution of orders per hour. Visualized the trend, seasonality, and residuals.
