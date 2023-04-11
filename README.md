@@ -5,6 +5,7 @@
 The repository contains projects accomplished while studying Data Science in Yandex.Practicum (Dec 2021 - Oct 2022).
 
 [Диплом](https://github.com/uladzislau21/YandexPracticum-projects/blob/main/Диплом.pdf)
+
 [Certificate](https://github.com/uladzislau21/YandexPracticum-projects/blob/main/Completion_certif.pdf)
 
 |Проект / Project name|Изученные темы / Topics studied|Использованные библиотеки / Libraries used|Статус / Status|
